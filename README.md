@@ -20,26 +20,6 @@ Context → Task → Requirements → Output Format → Quality Review
 
 AI responses are designed to be clear, professional, and actionable.
 
-Design
-Modern SaaS interface
-Responsive dashboard
-Sidebar navigation
-Card-based UI
-Interactive components
-Loading states
-Mobile-friendly design
-Tech Stack
-React
-TypeScript
-Vite
-Tailwind CSS
-AI/LLM integration
-Lovable
-Getting Started
-git clone https://github.com/YOUR_USERNAME/prodige-ai.git
-cd prodige-ai
-npm install
-npm run dev
  AI Disclaimer
 
 AI-generated content may require human review.
